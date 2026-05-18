@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"792e0350e3e016b8","type":"file","file":"Remote Repos/SQL/Lesson Lib/Lesson 1 - Relational model (Theory).md","x":-400,"y":-160,"width":400,"height":400},
+		{"id":"57371ba59d4bcdd9","type":"file","file":"Remote Repos/SQL/Lesson Lib/Lesson 1 - Relational model (Practice).md","x":140,"y":-160,"width":400,"height":400},
+		{"id":"6ce8c2d80f6373a1","x":-400,"y":440,"width":400,"height":400,"type":"file","file":"Remote Repos/SQL/Lesson Lib/Lesson 2 - PostgreSQL, Tools, Theory.md"}
+	],
+	"edges":[
+		{"id":"a4e389dec37b3ad9","fromNode":"792e0350e3e016b8","fromSide":"right","toNode":"57371ba59d4bcdd9","toSide":"left"},
+		{"id":"371c33d9a2a9c145","fromNode":"792e0350e3e016b8","fromSide":"bottom","toNode":"6ce8c2d80f6373a1","toSide":"top"}
+	]
+}
