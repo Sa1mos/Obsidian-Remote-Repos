@@ -6,3 +6,5 @@
 
 [Ссылка на ДЗ к занятию 1](https://greg-mentor.yonote.ru/share/2caca3e6-384f-4257-abf7-41b66d72a13e)
 
+[Исправленная схема БД](https://dbdiagram.io/d/Marketplace-Database-6a0b4a479f1f8ec47b444d35)
+- Были изменены таблицы orders и customers
