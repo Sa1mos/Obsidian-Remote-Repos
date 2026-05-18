@@ -7,7 +7,8 @@
 [Ссылка на ДЗ к занятию 1](https://greg-mentor.yonote.ru/share/2caca3e6-384f-4257-abf7-41b66d72a13e)
 
 [Исправленная схема БД](https://dbdiagram.io/d/Marketplace-Database-6a0b4a479f1f8ec47b444d35)
-- Были изменены таблицы orders и customers
+- Были добавлены новые связи в `orders` и `customers`
 	  - таблица `orders` зависела от строки `status`, поэтому была добавлен справочник `status_lib`, хранящая виды статусов заказа, и `orders` теперь связан с ней с помощью внешнего ключа
 	  - `customers` зависела от строки `city` - был добавлен справочник городов `city_lib` и внешний ключ к нему из таблицы `customers`
-	  - 
+- Добавлена новая проверка в `order_items`
+	  - добавлен `check unit_ptice > 0` 
