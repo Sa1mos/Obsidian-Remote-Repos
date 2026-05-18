@@ -87,5 +87,5 @@
 24. По структуре: B-Tree, Hash, GIN, GiST, BRIN, SP-GiST. По свойствам: уникальный, составной, частичный, по выражению, кластерный/некластерный.
 25. **EAV модель (Entity–Attribute–Value)** Паттерн хранения данных: три столбца — сущность, атрибут, значение. Гибко для динамических атрибутов, но крайне неэффективно для запросов и лишено типизации.
 
-Переход к практическим заданиям 1 занятия
+[Переход к практическим заданиям 1 занятия](obsidian://open?vault=Obsidian%20Vault&file=Remote%20Repos%2FSQL%2FLesson%20Lib%2FLesson%201%20-%20Relational%20model%20(Practice))
 [Переход к теории и вопросам 2 занятия](obsidian://open?vault=Obsidian%20Vault&file=Remote%20Repos%2FSQL%2FLesson%20Lib%2FLesson%202%20-%20PostgreSQL%2C%20Tools%2C%20Theory)
