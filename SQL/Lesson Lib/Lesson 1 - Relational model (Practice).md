@@ -15,3 +15,8 @@
 
 [Задача leetcode "Combine Two Tables"](https://leetcode.com/problems/combine-two-tables/description/)
 
+[Задача leetcode "Employee Earning more than Their Manager"](https://leetcode.com/problems/employees-earning-more-than-their-managers/description/)
+
+### Уточнить на занятии
+
+- Объяснение задачи "Employee Earning more than Their Manager"
