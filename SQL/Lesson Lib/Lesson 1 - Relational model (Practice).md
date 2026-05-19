@@ -12,3 +12,6 @@
 	  - `customers` зависела от строки `city` - был добавлен справочник городов `city_lib` и внешний ключ к нему из таблицы `customers`
 - Добавлена новая проверка в `order_items`
 	  - добавлен `check unit_ptice > 0` 
+
+[Задача leetcode "Combine Two Tables"](https://leetcode.com/problems/combine-two-tables/description/)
+
